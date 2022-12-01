@@ -1,0 +1,19 @@
+ul,
+li{
+  margin: 0;
+  padding: 0; 
+  list-style: none;
+}
+
+.menu{
+display: flex;
+border: solid red 1px;
+padding: 10px 0;
+column-gap: 10px;
+}
+form > div{
+  margin-bottom: 10px;
+}
+form > div > label {
+  display: block;
+}
